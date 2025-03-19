@@ -1,5 +1,5 @@
 # next-tm-lab03-ll-tmplt0
 
-# FIRST
+# FRIST
 # LSAT
 ## PD
